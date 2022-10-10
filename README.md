@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @delaramhamraz73
+- 👋 # Hi, I’m Delaram Hamraz
+
+
+
+
+
 - 👀 I’m interested in AI, Machine Learning, Deep Learning. Basicly the technology, I love it :)
 - 🌱 I’m currently working on how to use Hadoop
 - 💞️ I’m looking to collaborate on an AI project (to ease life). 
